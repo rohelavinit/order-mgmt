@@ -1,0 +1,157 @@
+[
+   {
+      "customerName": "pankaj",
+      "details": [
+         {
+            "item": "carrot",
+            "itemQnt": "2",
+            "itemPrc": "70"
+         },
+         {
+            "item": "tomato",
+            "itemQnt": "1",
+            "itemPrc": "15"
+         },
+         {
+            "item": "etc",
+            "itemQnt": "3",
+            "itemPrc": "45"
+         },
+         {
+            "item": "carrot",
+            "itemQnt": "2",
+            "itemPrc": "50"
+         },
+         {
+            "item": "carrot",
+            "itemQnt": "2",
+            "itemPrc": "45"
+         },
+         {
+            "item": "12",
+            "itemQnt": "223",
+            "itemPrc": "23"
+         },
+         {
+            "item": "carrot",
+            "itemQnt": "4",
+            "itemPrc": "70"
+         },
+         {
+            "item": "wheat",
+            "itemQnt": "10",
+            "itemPrc": "20"
+         },
+         {
+            "item": "asd",
+            "itemQnt": "3",
+            "itemPrc": "234"
+         },
+         {
+            "item": "sds",
+            "itemQnt": "4",
+            "itemPrc": "34"
+         },
+         {
+            "item": "qw",
+            "itemQnt": "23",
+            "itemPrc": "23"
+         },
+         {
+            "item": "asd",
+            "itemQnt": "2",
+            "itemPrc": "2"
+         },
+         {
+            "item": "sd3",
+            "itemQnt": "4",
+            "itemPrc": "345"
+         },
+         {
+            "item": "asdaf",
+            "itemQnt": "3",
+            "itemPrc": "234"
+         },
+         {
+            "item": "asd",
+            "itemQnt": "234",
+            "itemPrc": "234"
+         },
+         {
+            "item": "3e",
+            "itemQnt": "43",
+            "itemPrc": "34"
+         },
+         {
+            "item": "3",
+            "itemQnt": "34",
+            "itemPrc": "34"
+         },
+         {
+            "item": "234",
+            "itemQnt": "234",
+            "itemPrc": "234"
+         },
+         {
+            "item": "qwe",
+            "itemQnt": "2",
+            "itemPrc": "23"
+         }
+      ]
+   },
+   {
+      "customerName": "vinit",
+      "details": [
+         {
+            "item": "carrot",
+            "itemQnt": "3",
+            "itemPrc": "34"
+         },
+         {
+            "item": "asd",
+            "itemQnt": "3",
+            "itemPrc": "34"
+         },
+         {
+            "item": "muli",
+            "itemQnt": "34",
+            "itemPrc": "234"
+         }
+      ]
+   },
+   {
+      "customerName": "Baba",
+      "details": [
+         {
+            "item": "carrot",
+            "itemQnt": "2",
+            "itemPrc": "45"
+         },
+         {
+            "item": "apple",
+            "itemQnt": "1",
+            "itemPrc": "90"
+         },
+         {
+            "item": "orange",
+            "itemQnt": "3",
+            "itemPrc": "24"
+         }
+      ]
+   },
+   {
+      "customerName": "vk",
+      "details": [
+         {
+            "item": "apple",
+            "itemQnt": "23",
+            "itemPrc": "32"
+         },
+         {
+            "item": "aasasf",
+            "itemQnt": "34",
+            "itemPrc": "23"
+         }
+      ]
+   }
+]

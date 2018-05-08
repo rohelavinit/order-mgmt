@@ -1,0 +1,163 @@
+body{
+    background: #ebebeb !important;
+}
+
+header{
+    background: #333;
+}
+
+.top-div{
+    width: 70%;
+    margin: auto;
+    color: white;
+    padding: 14px 0px;
+    position: relative;
+}
+
+.logo{
+    font-size: 30px;
+}
+
+.logo-extra{
+    font-size: 14px;
+    margin-left: 14px;
+    letter-spacing: 3px;
+}
+
+.right-items{
+    position: absolute;
+    right: 0px;
+    top: 9px;
+}
+
+.right-items input{
+    padding: 8px !important;
+}
+
+.login-user{
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.form-top{
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.form{
+    width: 45%;
+    margin: auto;
+    background: white;    
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.input-custom{
+    margin: 15px 0px;
+    padding-bottom: 15px;
+}
+
+.input-custom > input{
+    padding: 0px 0px 10px 0px !important;
+    border: none !important;
+    border-radius: 0px !important;
+    border-bottom: 1px solid #e6e6e6 !important;
+    color: #333  !important;
+    transition: all 0.3s ease-in-out;
+    width: 100% !important;
+    outline: none;
+}
+
+.input-custom > label{
+   color : #24a0d1;
+   padding-bottom: 10px;
+   font-size: 14px;
+   display: block;
+}
+
+.input-custom > input:focus{
+    border-bottom: 1px solid #24a0d1 !important;
+}
+
+.form-submit{
+    color: white;
+    text-align: center;
+    padding: 14px 40px;
+    font-size: 15px;
+    border-radius: 3px;
+    background-color: #1f1f1f;
+    cursor: pointer;
+}
+
+.toggle-div{
+    font-size: 24px;
+    padding-bottom: 20px;
+    color: #000;
+}
+
+.toggle-element{
+    /*width: 50%;*/
+    display: inline-block;
+}
+
+.no-account{
+    width: 45%;
+    margin: auto;
+    margin-top: 20px;  
+}
+
+.no-account-text{
+    float: right;
+    color: #24a0d1;
+    cursor: pointer;
+}
+
+.error{
+    margin-bottom: 15px;
+    color: red;
+}
+
+.item-wrap{
+    text-align: center;
+    color: #000;
+    background: #fff;
+    padding-top: 30px;
+    height: 100%;
+    font-size: 18px;
+}
+
+.width-33{
+    width: 33%;
+    display: inline-block;
+}
+
+.width-66{
+    width: 66%;
+    display: inline-block;
+}
+
+.items-content{
+    width: 60%;
+    margin: auto;
+}
+
+.input-items{
+    border: 1px solid #777;
+    margin: 0px;
+    padding: 5px;
+    font-size: 18px;
+    text-align: center
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.text-cap{
+    text-transform: capitalize;
+}

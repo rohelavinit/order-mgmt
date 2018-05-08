@@ -1,0 +1,44 @@
+[
+   {
+      "userId": 1,
+      "username": "Robert",
+      "email": "2",
+      "password": "2",
+      "phone": "2"
+   },
+   {
+      "userId": 2,
+      "username": "Rahul",
+      "email": "1",
+      "password": "1",
+      "phone": "1"
+   },
+   {
+      "userId": 3,
+      "username": "Bob",
+      "email": "3",
+      "password": "3",
+      "phone": "3"
+   },
+   {
+      "userId": 4,
+      "username": "bhedu",
+      "email": "4",
+      "password": "4",
+      "phone": "4"
+   },
+   {
+      "userId": 5,
+      "username": "billu",
+      "email": "5",
+      "password": "5",
+      "phone": "5"
+   },
+   {
+      "userId": 6,
+      "username": "barber",
+      "email": "6",
+      "password": "6",
+      "phone": "6"
+   }
+]
