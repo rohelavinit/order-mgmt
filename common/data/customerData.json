@@ -36,66 +36,6 @@
             "item": "carrot",
             "itemQnt": "4",
             "itemPrc": "70"
-         },
-         {
-            "item": "wheat",
-            "itemQnt": "10",
-            "itemPrc": "20"
-         },
-         {
-            "item": "asd",
-            "itemQnt": "3",
-            "itemPrc": "234"
-         },
-         {
-            "item": "sds",
-            "itemQnt": "4",
-            "itemPrc": "34"
-         },
-         {
-            "item": "qw",
-            "itemQnt": "23",
-            "itemPrc": "23"
-         },
-         {
-            "item": "asd",
-            "itemQnt": "2",
-            "itemPrc": "2"
-         },
-         {
-            "item": "sd3",
-            "itemQnt": "4",
-            "itemPrc": "345"
-         },
-         {
-            "item": "asdaf",
-            "itemQnt": "3",
-            "itemPrc": "234"
-         },
-         {
-            "item": "asd",
-            "itemQnt": "234",
-            "itemPrc": "234"
-         },
-         {
-            "item": "3e",
-            "itemQnt": "43",
-            "itemPrc": "34"
-         },
-         {
-            "item": "3",
-            "itemQnt": "34",
-            "itemPrc": "34"
-         },
-         {
-            "item": "234",
-            "itemQnt": "234",
-            "itemPrc": "234"
-         },
-         {
-            "item": "qwe",
-            "itemQnt": "2",
-            "itemPrc": "23"
          }
       ]
    },
